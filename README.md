@@ -21,7 +21,7 @@
 3. [Librerie utilizzate](#librerie-utilizzate)
 4. [Sicurezza e configurazione DB](#sicurezza-e-configurazione-db)
 5. [Utilizzo](#utilizzo)
-6. [Performance] (#performance)
+6. [Performance](#performance)
 6. [Autori](#autori)
 
 ## Introduzione
