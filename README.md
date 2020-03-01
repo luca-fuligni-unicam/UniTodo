@@ -62,7 +62,7 @@ Fondamentalmente tiene traccia di tutti i componenti renderizzati in un pagina e
 La libreria React Redux Firebase permette l'interoperabilità fra i tre componenti specificati nel nome stesso.
 
 ### Redux Thunk
-All'interna dell'architettura Redux, Thunk funge da middleware permettondo di svolegere operazioni asincrone (nel nostro caso interagire con il DB) altrimenti non possibili.
+All'interno dell'architettura Redux, Thunk funge da middleware permettendo di svolegere operazioni asincrone (nel nostro caso interagire con il DB) altrimenti non possibili.
 
 ### Formik
 Formik permette di costruire più agevolmente dei form per la nostra applicazione, rendendo disponibile l'uso di diversi metodi per gestire invio e validazione.
@@ -93,7 +93,7 @@ L'applicazione può essere liberamente accessibile all'URL [UniTodo](http://luca
 Nel caso si volesse testare localmente basterà lanciare i seguenti comandi:
 
 ```
-git clone
+git clone https://github.com/luca-fuligni/UniTodo
 
 cd unitodo
 
