@@ -47,7 +47,7 @@ Redux è una architettura utilizzata per scrivere applicazioni web. Dopo essere 
 L'idea è quella di rendere prevedibile il cambio di stato tramite restrizioni su come e quando avviene lo stesso.
 Negli ultimi anni Redux si è proposta come una valida alternativa al classico modello MVC.
 
-#### Firebase e Firestore
+### Firebase e Firestore
 Firebase è un servizio online fornito da Google. Il suo scopo principale è quello di proporsi come backend as a service. Permette infatti di salvare e sincronizzare i dati elaborati da applicazion i web e mobile.
 Nel nostro caso, Firebase e Firestore sono stati utilizzati rispettivamente per l'autenticazione e la gestione dei dati relativi alla applicazioni in un database NoSQL.
 
